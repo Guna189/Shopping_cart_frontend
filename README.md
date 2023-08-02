@@ -21,6 +21,17 @@ Our friendly customer support team is here to assist you with any queries.
 ### HTML
 ### CSS
 ### JavaScript
+### Output1
+![image](https://github.com/Guna189/Shopping_cart_frontend/assets/112332925/e14de227-074a-4c31-abe9-2f801d9c9b91)
+### Output2
+![image](https://github.com/Guna189/Shopping_cart_frontend/assets/112332925/8806ab64-fe3e-4c00-b71e-bba13cfbeaf6)
+### Output3
+![image](https://github.com/Guna189/Shopping_cart_frontend/assets/112332925/d364faba-fc26-4aff-81bc-1d6055bd5195)
+### Output4
+![image](https://github.com/Guna189/Shopping_cart_frontend/assets/112332925/4fe558fa-cdec-4444-aacd-0e8c3cfa8741)
+### Output5
+![image](https://github.com/Guna189/Shopping_cart_frontend/assets/112332925/f4fc8cea-d5b5-41fb-aa2a-fdccea3fda2a)
+
 
 ## Setup Instructions
 ### Clone the repository: 
