@@ -1,0 +1,60 @@
+article h1{
+    font-size: 3em;
+}
+
+.prodimg img{
+    height: 400px;
+    width: 600px;
+    border-radius: 100px;
+}
+
+.prodimg,.descp{
+    display: inline-block;
+}
+
+.descp{
+    float: right;
+    padding-right: 30%;
+}
+
+.moreimg h3{
+    font-size: 2em;
+}
+
+.moreimg img{
+    height: 300px;
+    width: 450px;
+    display: inline-block;
+    margin-inline-start: 50px;
+    border-radius: 50px;
+}
+
+.price, .buynow{
+    display: inline-block;
+    margin-left: 10%;
+    background-color: #ffdc04;
+    
+}
+.price{
+    border-radius: 500px;
+    font-size: 1.5em;
+}
+
+.buynow{
+    border-radius: 100px;
+    font-size: 1.5em;
+    animation-direction: normal;
+    padding:0  30px;
+}
+article .price,.buynow{
+    background-image: url(images/diagold.png);
+    
+}
+
+.moreimg img:hover,article .price:hover,.buynow:hover{
+    border-style: double;    
+}
+
+.descp:hover{
+    font-size: 1.2em;
+}

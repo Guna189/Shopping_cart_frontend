@@ -1,0 +1,56 @@
+.mainbody article h1{
+    font-size: 4em;
+}
+.mainbody article .caption{
+    font-size: 2em;
+    margin-left: 30%;
+    transition: width 10s;
+    width: 800px;
+}
+
+.mainbody article .caption{
+    font-size: 2em;
+}
+
+img{
+    height: 400px;
+    width: 600px;
+    border-radius: 100px;
+}
+
+.item .prodimg{
+    float:left;
+}
+
+.item .descp,.item .buynow,.item .price{
+    display: inline-flex;
+    float: right;
+    padding-right: 10%;
+}
+.item .buynow,.item .price{
+    padding-left: 5%;
+    background-image: url(images/diagold.png);
+}
+
+.item .buynow a:hover{
+    font-size: larger;
+}
+
+.allitems img{
+    width: 400px;
+    height: 300px;
+    align-items: center;
+}
+
+.allitems{
+    margin: 100px;
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.allitems .buynow a:hover{
+    background-image: url(images/diagold.png);
+    font-size: 1.2em;
+    border-radius: 10px;
+}
